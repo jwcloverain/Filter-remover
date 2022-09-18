@@ -8,7 +8,6 @@
 // @updateURL	 https://github.com/jwcloverain/Filter-remover/raw/master/Filter-remover.mod.user.js
 // @match        http://*/*
 // @match        https://*/*
-// @run-at       document-start
 // ==/UserScript==
  
 //
